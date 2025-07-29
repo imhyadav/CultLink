@@ -1,1 +1,1 @@
-cultlink.vercel.app
+https://cultlink.vercel.app/
